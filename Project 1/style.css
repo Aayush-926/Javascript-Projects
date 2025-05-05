@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: mediumvioletred;
+}
+
+.container{
+    height:800px;
+    max-width: 1200px;
+    background-color: black;
+    margin:80px auto;
+}
+
+.box{
+    height: 200px;
+    width:600px;
+    background-color: blueviolet;
+   
+}
+
+.box-container{
+     display: flex;
+}
+
+.box1{
+    background-color: rgb(157, 60, 157);
+}
+.box2{
+    background-color: rgb(214, 131, 214);
+}
+.box3{
+    background-color: rgb(86, 22, 86);
+}
+.box4{
+    background-color: rgb(49, 29, 49);
+}
+.box5{
+    background-color: rgb(142, 8, 142);
+}
+.box6{
+    background-color: rgb(186, 130, 186);
+}
+.box7{
+    background-color: rgb(195, 0, 195);
+}
+.box8{
+    background-color: rgb(61, 29, 61);
+}
